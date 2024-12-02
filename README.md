@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 2024
 
 My humble submission to [Advent of Code 2024](https://adventofcode.com/2024).
 
@@ -19,3 +19,5 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 - [**Detailed log**](day01/README.md)
 
 ## Day 2
+
+- [**Detailed log**](day02/README.md)
