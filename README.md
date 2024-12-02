@@ -17,3 +17,5 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 ## Day 1
 
 - [**Detailed log**](day01/README.md)
+
+## Day 2
