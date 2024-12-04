@@ -21,3 +21,11 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 ## Day 2
 
 - [**Detailed log**](day02/README.md)
+
+## Day 3
+
+- [**Detailed log**](day03/README.md)
+
+## Day 4
+
+- [**Detailed log**](day04/README.md)
