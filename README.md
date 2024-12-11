@@ -29,3 +29,19 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 ## Day 4
 
 - [**Detailed log**](day04/README.md)
+
+## Day 5
+
+- [**Detailed log**](day05/README.md)
+
+## Day 6
+
+- [**Detailed log**](day06/README.md)
+
+## Day 7
+
+- [**Detailed log**](day07/README.md)
+
+## Day 8
+
+- [**Detailed log**](day08/README.md)
